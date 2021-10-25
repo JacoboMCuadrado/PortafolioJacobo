@@ -1,0 +1,62 @@
+html{
+  background-color: #87CEFA;
+}
+
+img{
+  height: 300px;
+  width: auto;
+}
+
+div{
+  justify-content: center;
+  display: flex;
+}
+
+body{
+  vertical-align: middle;
+  width: 700px;
+  height: 600px;
+  margin: 0 auto;
+  background-color: #ADD8E6;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+}
+
+.carrusel {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.unit {
+  display: none;
+} 
+
+.prev , .next {
+  cursor: pointer;
+  top: 50%;
+  width: auto;
+  margin-top: 340px;
+  margin-bottom: 340px;
+  padding-left: 50px;
+  padding: 25px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  user-select: none;
+  background-color: green;
+  border-radius: 12px;
+  border-color: green;
+}
+
+
+.prev:hover, .next:hover {
+  background-color: #32CD32;
+  color: green;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+

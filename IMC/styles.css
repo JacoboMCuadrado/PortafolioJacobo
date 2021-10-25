@@ -1,0 +1,51 @@
+body {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.container {
+  position: absolute;
+  margin-top: 250px;
+}
+
+.input-text {
+    border-radius: 10px;
+    text-align: center;
+    outline: none;
+    border-color: #d5e8fa;
+}
+
+p {
+  color: #1f1f1f;
+  user-select: none;
+}
+
+label {
+  color: #1f1f1f;
+}
+
+h1 {
+  font-size: 5em;
+  user-select: none;
+}
+
+
+
+button {
+    position: relative;
+  border-radius: 12px;
+  width: 150px;
+  height: 50px;
+  border-color: #00CED1;
+  outline-color: #00CED1;
+  background: #1E90FF;
+  color: white;
+  font-size: 20px;
+}
+
+
+  .fourth:hover {
+    background: #00BFFF;
+  }

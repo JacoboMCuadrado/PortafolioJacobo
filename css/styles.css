@@ -1,0 +1,238 @@
+
+
+body{
+	background-image: url("../img/Fondo2.jpg");
+	background-size: cover;
+	background-size: 30rem;
+	background-repeat: repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+
+.Ecabezado{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.Ecabezado header{
+	max-width: 860px;
+	margin: 0 auto;
+	margin-top: 0px;
+	padding: 20px;
+	background-color: #A4CBDC;
+	display: flex;
+	margin-bottom: 0px;
+}
+
+.Ecabezado header img{
+	padding: 40px;
+	padding-left: 40px;
+	width: 140px;
+	height: 140px;
+}
+
+.Ecabezado header h1{
+	color: white;
+	padding-top: 30px;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Ecabezado header aside{
+	width: 600px;
+}
+
+.Ecabezado header aside p{
+	color: white;
+	padding-top: 50px;
+	text-align: justify;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Menu{
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.Menu nav{
+	max-width: 900px;
+	margin-bottom: 0 auto;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	display: grid;
+
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding: 20px;
+	background-color: #D0D4D3; 
+}
+
+
+
+.Menu nav ul li{
+	list-style: none;
+}
+
+.Menu nav ul li a{
+	float: left;
+	margin-right: 50px;
+	font-family: 'Gemunu Libre', sans-serif;
+} 
+
+.Arquitectura{
+	max-width: 900px;
+	background-color: #F3C190;
+	padding: left 20px;
+	display: grid;
+	margin: 0 auto;
+}
+
+.Arquitectura section{
+	padding-left: 20px;
+	max-width: 1000px;
+}
+
+.Arquitectura section h1{
+	padding-left: 0px;
+	color: black;
+	font-size: 50px;
+	margin-bottom: 0px;
+	border-bottom: 2px solid black;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Arquitectura section h2{
+	color: #333331;
+	font-size: 25px;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Arquitectura section p{
+	text-align: justify;
+	padding-right: 20px;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+
+
+.Front{
+	max-width: 900px;
+	background-color: #EFBF8E;
+	padding: left 20px;
+	display: grid;
+	margin: 0 auto;
+}
+
+.Front section{
+	padding-left: 20px;
+	max-width: 1000px;
+}
+
+.Front section h1{
+	padding-left: 0px;
+	font-family: 'Gemunu Libre', sans-serif;
+	color: black;
+	font-size: 50px;
+	margin-bottom: 0px;
+	border-bottom: 2px solid black;
+}
+
+.Front section h2{
+	color: #333331;
+	font-size: 25px;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Front section h3{
+	font-size: 18px;
+	color: #45474a;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Front section p{
+	text-align: justify;
+	padding-right: 20px;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Front section li{
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Front section img{
+	padding-left: 125px;
+}
+
+
+
+.Back{
+	max-width: 900px;
+	background-color: #EEB77F;
+	padding: left 20px;
+	display: grid;
+	margin: 0 auto;
+}
+
+.Back section{
+	padding-left: 20px;
+	max-width: 1000px;
+}
+
+.Back section h1{
+	padding-left: 0px;
+	color: black;
+	font-size: 50px;
+	font-family: 'Gemunu Libre', sans-serif;
+	margin-bottom: 0px;
+	border-bottom: 2px solid black;
+}
+
+.Back section h2{
+	color: #333331;
+	font-size: 25px;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Back section h3{
+	font-size: 18px;
+	color: #45474a;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Back section p{
+	text-align: justify;
+	padding-right: 20px;
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Back section li{
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.Back section img{
+	padding-left: 125px;
+}
+.Back section img.tres{
+	padding-left: 300px;
+	width: 250px;
+	height: 250px;
+}
+footer{
+	max-width: 860px;
+	margin: 0 auto;
+	margin-top: 0px;
+	padding: 20px;
+	display: flex;
+	padding-bottom: 0px;
+	background-color: #E5A871;
+
+}
+
+footer img{
+	padding: 20px;
+	padding-left: 20px;
+	width: 50px;
+	height: 40px;
+}
+
+
