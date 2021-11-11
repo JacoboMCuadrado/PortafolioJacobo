@@ -1,8 +1,8 @@
 <?php
     $bd = 'rouxacademy';    
     $server = 'localhost';
-    $user='root';
-    $pass='';
+    $user='pmauser';
+    $pass='1234';
     
     
     $connection=mysqli_connect($server,$user,$pass,$bd);
