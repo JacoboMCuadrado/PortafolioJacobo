@@ -1,0 +1,48 @@
+h1{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: purple;
+}
+
+.center-block {
+  margin: auto;
+  display: block;
+}
+
+label{
+	text-align:	center;
+	padding-left: 150px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h2{
+		text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: purple;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FFF5EE;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+html{
+	background-color: #FFEFD5;
+}
+
+.button {
+  transition-duration: 0.4s;
+    margin: auto;
+  display: block;
+}
+
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
