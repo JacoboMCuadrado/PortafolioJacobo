@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <title>Roux Conference: Artists</title>
-<link rel="stylesheet" href="/Unidad 3/roux_academy/css/style.css">
+<link rel="stylesheet" href="/PortafolioJacobo/Unidad 3/roux_academy/css/style.css">
 </head>
 <body id="page_artists">
 <div class="wrapper">
   <header>
-    <div class="branding"> <img src="/Unidad 3/roux_academy/images/ralogo_monogram.png" alt="Logo">
+    <div class="branding"> <img src="/PortafolioJacobo/Unidad 3/roux_academy/images/ralogo_monogram.png" alt="Logo">
       <p>Roux Academy<br>
         Art • Media • Design</p>
     </div>
@@ -18,13 +18,13 @@
     </div>
     <nav>
       <ol>
-        <li><a href="/Unidad 3/roux_academy/index.php">HOME</a></li>
-        <li><a href="/Unidad 3/roux_academy/artists.php">ARTISTS</a></li>
-        <li><a href="/Unidad 3/roux_academy/schedule/index.php">SCHEDULE</a></li>
-        <li><a href="/Unidad 3/roux_academy/venue.php">VENUE/TRAVEL</a></li>
-        <li><a href="/Unidad 3/roux_academy/register/index.php">REGISTER</a></li>
-        <li><a href="/Unidad 3/roux_academy/access.php">SIGN IN</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/index.php">HOME</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/artists.php">ARTISTS</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/schedule/index.php">SCHEDULE</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/venue.php">VENUE/TRAVEL</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/register/index.php">REGISTER</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/access.php">SIGN IN</a></li>
       </ol>
     </nav>
   </header>
-  <div id="rotator"> <img src="/Unidad 3/roux_academy/images/art01.jpg" alt="Artwork from show"> </div>
+  <div id="rotator"> <img src="/PortafolioJacobo/Unidad 3/roux_academy/images/art01.jpg" alt="Artwork from show"> </div>

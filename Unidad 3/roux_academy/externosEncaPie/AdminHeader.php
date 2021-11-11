@@ -20,13 +20,13 @@
 <head>
 <meta charset="utf-8">
 <title>Roux Conference: Artists</title>
-<link rel="stylesheet" href="/Unidad 3/roux_academy/css/style.css">
-<link rel="stylesheet" href="/Unidad 3/roux_academy/css/tableStyles.css">
+<link rel="stylesheet" href="/PortafolioJacobo/Unidad 3/roux_academy/css/style.css">
+<link rel="stylesheet" href="/PortafolioJacobo/Unidad 3/roux_academy/css/tableStyles.css">
 </head>
 <body id="page_artists">
 <div class="wrapper">
   <header>
-    <div class="branding"> <img src="/Unidad 3/roux_academy/images/ralogo_monogram.png" alt="Logo">
+    <div class="branding"> <img src="/PortafolioJacobo/Unidad 3/roux_academy/images/ralogo_monogram.png" alt="Logo">
       <p>Roux Academy<br>
         Art • Media • Design</p>
     </div>
@@ -39,14 +39,14 @@
     </div>
     <nav>
       <ol>
-        <li><a href="/Unidad 3/roux_academy/indexAdminView.php" class = "navstyles">HOME</a></li>
-        <li><a href="/Unidad 3/roux_academy/artistsAdminView.php" class = "navstyles">ARTISTS</a></li>
-        <li><a href="/Unidad 3/roux_academy/schedule/indexAdminView.php" class = "navstyles">SCHEDULE</a></li>
-        <li><a href="/Unidad 3/roux_academy/venueAdminView.php" class = "navstyles">VENUE/TRAVEL</a></li>
-        <li><a href="/Unidad 3/roux_academy/showRecords.php" class = "navstyles">RECORD</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/indexAdminView.php" class = "navstyles">HOME</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/artistsAdminView.php" class = "navstyles">ARTISTS</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/schedule/indexAdminView.php" class = "navstyles">SCHEDULE</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/venueAdminView.php" class = "navstyles">VENUE/TRAVEL</a></li>
+        <li><a href="/PortafolioJacobo/Unidad 3/roux_academy/showRecords.php" class = "navstyles">RECORD</a></li>
         <li><a onclick="cerrar()"; class = "signOff" >SIGN OFF</a></li>
         <h2 class="username" ><?php echo "USER:  " .  $_SESSION['user'];?></h2>
       </ol>
     </nav>
   </header>
-  <div id="rotator"> <img src="/Unidad 3/roux_academy/images/art01.jpg" alt="Artwork from show"> </div>
+  <div id="rotator"> <img src="/PortafolioJacobo/Unidad 3/roux_academy/images/art01.jpg" alt="Artwork from show"> </div>
